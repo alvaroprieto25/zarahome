@@ -1,0 +1,20 @@
+<app-header></app-header>
+<div class="container">
+    <div class="row" *ngFor="let product of products">
+        <img src="{{product.image}}" (click)="redirectToProduct(product)">
+        <div class="name" (click)="redirectToProduct(product)">
+            <label>{{product.name}}</label>
+        </div>
+        <div class="price">
+            <label>{{getMinPrice(product)}} € - {{getMaxPrice(product)}} €</label>
+        </div>
+        <div class="colors" *ngFor="let color of product.colors" (mouseenter)="showName(color.name, product.name)" (mouseleave)="reset()">
+            <div class="color-item" *ngIf="product.colors.length > 1">
+                <img class="color-image" src="{{color.image}}">
+            </div>
+        </div>
+        <div class="color-label">
+            <label *ngIf="active && selectedProductName == product.name">{{active}}</label>
+        </div>
+    </div>
+</div>

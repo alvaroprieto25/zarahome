@@ -1,0 +1,172 @@
+{
+    "products": [{
+            "id": 1,
+            "name": "FUNDA NÓRDICA SATÉN ESTAMPADO",
+            "image": "https://static.zarahome.net/8/photos4/2021/I/4/1/p/6138/088/500/6138088500_7_1_2.jpg?t=1630911611805",
+            "colors": [{
+                "id": "500",
+                "name": "VERDE",
+                "image": "https://static.zarahome.net/8/photos4/2021/I/4/1/p/0105/088/711/0105088711_3_1_5.jpg?t=1630912807610",
+                "sizes": [{
+                        "sku": 302409520,
+                        "name": "135 x 200 cm",
+                        "description": "cama 90cm",
+                        "price": "4999",
+                        "visibilityValue": "SHOW"
+                    },
+                    {
+                        "sku": 302409515,
+                        "name": "150 x 220 cm",
+                        "description": "cama 90cm",
+                        "price": "4999",
+                        "visibilityValue": "SHOW"
+                    },
+                    {
+                        "sku": 302409522,
+                        "name": "220 x 220 cm",
+                        "description": "cama 135/140cm",
+                        "price": "5999",
+                        "visibilityValue": "SHOW"
+                    },
+                    {
+                        "sku": 302409514,
+                        "name": "240 x 220 cm",
+                        "description": "cama 150/160cm",
+                        "price": "5999",
+                        "visibilityValue": "SHOW"
+                    },
+                    {
+                        "sku": 302409523,
+                        "name": "290 x 260 cm",
+                        "description": "cama 200cm",
+                        "price": "7999",
+                        "visibilityValue": "SHOW"
+                    },
+                    {
+                        "sku": 302409519,
+                        "name": "260 x 240 cm",
+                        "description": "cama 180/200cm",
+                        "price": "7999",
+                        "visibilityValue": "SHOW"
+                    }
+                ]
+            }]
+        },
+        {
+            "id": 2,
+            "name": "(180 HILOS) FUNDA NÓRDICA ALGODÓN PERCAL",
+            "image": "https://static.zarahome.net/8/photos4/2021/I/4/1/p/0105/088/711/0105088711_7_1_2.jpg?t=1623224418081",
+            "colors": [{
+                    "id": "711",
+                    "name": "ARENA",
+                    "image": "https://static.zarahome.net/8/photos4/2021/I/4/1/p/0105/088/711/0105088711_3_1_5.jpg?t=1630912807610",
+                    "sizes": [{
+                            "sku": 302304953,
+                            "name": "135 x 200 cm",
+                            "description": "cama 90cm",
+                            "price": "1999",
+                            "visibilityValue": "SHOW"
+                        },
+                        {
+                            "sku": 302304991,
+                            "name": "150 x 220 cm",
+                            "description": "cama 90cm",
+                            "price": "1999",
+                            "visibilityValue": "SHOW"
+                        },
+                        {
+                            "sku": 302304973,
+                            "name": "180 x 220 cm",
+                            "description": "cama 105cm",
+                            "price": "1999",
+                            "visibilityValue": "SHOW"
+                        },
+                        {
+                            "sku": 302304960,
+                            "name": "220 x 220 cm",
+                            "description": "cama 135/140cm",
+                            "price": "2999",
+                            "visibilityValue": "SHOW"
+                        },
+                        {
+                            "sku": 302304996,
+                            "name": "240 x 220 cm",
+                            "description": "cama 150/160cm",
+                            "price": "2999",
+                            "visibilityValue": "SHOW"
+                        },
+                        {
+                            "sku": 302304947,
+                            "name": "290 x 260 cm",
+                            "description": "cama 200cm",
+                            "price": "3999",
+                            "visibilityValue": "SHOW"
+                        },
+                        {
+                            "sku": 302304980,
+                            "name": "260 x 240 cm",
+                            "description": "cama 180/200cm",
+                            "price": "3999",
+                            "visibilityValue": "SHOW"
+                        }
+                    ]
+                },
+                {
+                    "id": "802",
+                    "name": "GRIS",
+                    "image": "https://static.zarahome.net/8/photos4/2021/I/4/1/p/0105/088/802/0105088802_3_1_5.jpg?t=1630912807610",
+                    "sizes": [{
+                            "sku": 302328195,
+                            "name": "135 x 200 cm",
+                            "description": "cama 90cm",
+                            "price": "1999",
+                            "visibilityValue": "SHOW"
+                        },
+                        {
+                            "sku": 302328191,
+                            "name": "150 x 220 cm",
+                            "description": "cama 90cm",
+                            "price": "1999",
+                            "visibilityValue": "SHOW"
+                        },
+                        {
+                            "sku": 302328188,
+                            "name": "180 x 220 cm",
+                            "description": "cama 105cm",
+                            "price": "1999",
+                            "visibilityValue": "SHOW"
+                        },
+                        {
+                            "sku": 302328190,
+                            "name": "220 x 220 cm",
+                            "description": "cama 135/140cm",
+                            "price": "2999",
+                            "visibilityValue": "SHOW"
+                        },
+                        {
+                            "sku": 302328193,
+                            "name": "240 x 220 cm",
+                            "description": "cama 150/160cm",
+                            "price": "2999",
+                            "visibilityValue": "SHOW"
+                        },
+                        {
+                            "sku": 302328185,
+                            "name": "290 x 260 cm",
+                            "description": "cama 200cm",
+                            "price": "3999",
+                            "visibilityValue": "SHOW"
+                        },
+                        {
+                            "sku": 302328189,
+                            "name": "260 x 240 cm",
+                            "description": "cama 180/200cm",
+                            "price": "3999",
+                            "visibilityValue": "SHOW"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
